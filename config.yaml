@@ -2,7 +2,7 @@ title: Stackbit Ampersand Theme
 baseURL: /
 params:
   layout_style: grid
-  palette: blue
+  palette: black
   header:
     title: Summit
     logo_img: ''
