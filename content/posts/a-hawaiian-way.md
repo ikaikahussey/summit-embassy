@@ -13,4 +13,4 @@ Underlying their efforts since the early 1970s, though, is “the Nordic system,
 
 We’d do well to design our politics around our own island values. “Aloha spirit” is overused, and usually references hospitality towards visitors. We need a fresh set of ideas upon which to build a local politics, derived from an older set of signals. In our collective archive is the Law of the Splintered Paddle, which guaranteed a minimum level of human rights for all, particularly children and the elderly; a land tenure system which, via local governance, allowed for people to work and derive their own benefit through the ahupua‘a system; and ritual sharing of individual wealth through the ‘ohana and between families.
 
-These are old ideas, admittedly, but a Hawaiian Approach could be a useful way to think about our eternal challenges of resource allocation and social welfare.5
+These are old ideas, admittedly, but a Hawaiian Approach could be a useful way to think about our eternal challenges of resource allocation and social welfare.
