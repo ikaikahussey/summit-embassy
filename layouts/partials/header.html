@@ -5,8 +5,7 @@
       <div class="site-branding">
         {{ if .Site.Params.header.logo_img }}
         <p class="site-logo">
-          <a href='{{ "/" | relURL }}'><img src="{{ .Site.Params.header.logo_img | relURL }}"
-              alt="Logo" /></a>
+          <a id="branding" href='{{ "/" | relURL }}'>Summit</a>
         </p>
         {{ end }}
         {{ if eq .Params.layout "home" }}
