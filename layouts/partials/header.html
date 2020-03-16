@@ -9,9 +9,9 @@
         </p>
         {{ end }}
         {{ if eq .Params.layout "home" }}
-        <h1 class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></h1>
+        <h1 class="site-title"><a id="branding" href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></h1>
         {{ else }}
-        <p class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></p>
+        <p class="site-title"><a id="branding" href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></p>
         {{ end }}
       </div><!-- .site-branding -->
 
