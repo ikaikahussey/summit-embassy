@@ -9,6 +9,10 @@ a#branding {
   font-family: 'Industry';
   }
 
+.post-card .post-meta {
+   font-family: 'Industry';
+}
+
 body,html {
   font-family: 'Surveyor SSm A', 'Surveyor SSm B';
 }
