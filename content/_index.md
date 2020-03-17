@@ -6,9 +6,10 @@ sections:
     section_id: intro
     component: intro.html
     content: >-
-      Welcome to Summit, Hawaii's global magazine. Named for the motto of Queen
-      Kapi‘olani, "strive for the summit," we provide a view on diplomacy and
-      global affairs.
+      Welcome to Summit, the magazine for global citizens. Named for the motto
+      of Queen Kapi‘olani, "kulia i ka nuu," (strive for the summit), the
+      magazine provides a fresh perspective on diplomacy, politics, and
+      commerce.
     actions:
       - label: Learn More
         url: /about
