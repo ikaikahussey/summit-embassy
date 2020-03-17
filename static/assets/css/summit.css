@@ -1,7 +1,8 @@
 a#branding {
   text-transform: uppercase;
   font-family: 'Surveyor SSm A', 'Surveyor SSm B';
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-weight:100;
   }
 
 .menu {
@@ -10,6 +11,10 @@ a#branding {
 
 body,html {
   font-family: 'Surveyor SSm A', 'Surveyor SSm B';
+}
+
+header {
+  font-family: 'Glober';
 }
 
 a.button {
