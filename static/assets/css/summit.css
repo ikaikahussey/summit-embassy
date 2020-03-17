@@ -8,7 +8,7 @@ a#branding {
   font-family: 'Industry';
   }
 
-body {
+body,html {
   font-family: 'Surveyor SSm A', 'Surveyor SSm B';
 }
 
