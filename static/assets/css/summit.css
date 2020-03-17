@@ -33,6 +33,14 @@ a.button {
   font-family: inherit;
 }
 
+.site-header {
+background: #fff;
+border-top: 0px solid #3cb464;
+border-bottom: 2px solid #333;
+padding-bottom: 1.33333em;
+padding-top: 1.33333em;
+}
+
 @font-face {
   font-family: 'Glober';
   src: url("../assets/fonts/glober/Glober_Bold_Free-webfont.eot");
