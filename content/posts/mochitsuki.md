@@ -1,7 +1,6 @@
 ---
 title: Mochitsuki
-thumb_img_path: /webhook-uploads/1446671715805/mochi_31_2000.jpg
-author: Chelsea Akamine
+layout: post
 ---
 
 <p>Mochitsuki (mochi-pounding) is a Japanese tradition that has become integrated into the local New Year’s celebrations here in Hawai‘i. Generally a day-long activity, it is a way of welcoming the New Year and ensuring good luck and longevity for the years to come.
