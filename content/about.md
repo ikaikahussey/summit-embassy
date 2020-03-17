@@ -1,6 +1,6 @@
 ---
 title: About Summit
-subtitle: This is a short page about me and my work
+subtitle: ''
 img_path: ''
 menu:
   main:
@@ -8,4 +8,4 @@ menu:
     weight: 2
 layout: page
 ---
-**Summit is Hawaii's global magazine.**
+Welcome to Summit, a gathering place for global citizens. Named for the motto of Queen Kapi‘olani, “kulia i ka nuu,” (strive for the summit), the magazine provides a fresh perspective on diplomacy, politics, and commerce.
