@@ -4,6 +4,18 @@ a#branding {
   font-size: 1.5rem;
   }
 
+.menu {
+  font-family: 'Industry';
+  }
+
+body {
+  font-family: 'Surveyor SSm A', 'Surveyor SSm B';
+}
+
+a.button {
+  font-family: 'Glober';
+}
+
 @font-face {
   font-family: 'Glober';
   src: url("../assets/fonts/glober/Glober_Bold_Free-webfont.eot");
