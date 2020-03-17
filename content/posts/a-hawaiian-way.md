@@ -3,6 +3,7 @@ title: A Hawaiian Way
 subtitle: Why a northern approach might make sense down at the equator
 date: 2020-03-16T08:03:39.948Z
 thumb_img_path: /images/pc215357a.png
+content_img_path: /images/pc215357a.png
 layout: post
 ---
 **I had an opportunity** to sit down recently with Pasi Sahlberg, a Finnish educator and scholar who gave several talks in Honolulu on lessons that Hawai‘i’s education system can learn from his country. On his short list: a long time horizon for educational reform efforts; a highly competitive, attractive educational profession (with “ten times more applicants than we can let in,” he says); and a highly integrated special-needs education system.
