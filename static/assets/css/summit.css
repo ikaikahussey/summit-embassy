@@ -18,9 +18,30 @@ body,html {
   color: black;
 }
 
-h1, h2, h3, h4, h5, h6, header, time, blockquote {
+h1, h2, h3, h4, h5, h6, header, time, blockquote,p.author {
   font-family: 'Glober';
+  font-size: smaller;
+  color: black;
+  font-weight: lighter;
 }
+
+.post-content {border-top:2px black solid;padding-top: 40px;}
+
+.post-content h2 {
+	background: #ffe102;
+	display: block;
+	padding: 10px 550px 10px 600px;
+	margin-bottom: 30px;
+	margin-left: -600px;
+	border-radius: 20px;
+	color: black;
+	font-size: larger;
+}
+
+aside {}
+
+
+.post-title {text-transform: uppercase;}
 
 h2.post-title {
   font-family: 'Glober';
