@@ -36,8 +36,6 @@ main#letters .post-content h2 {background: $letters;color: white;}
 /*--------*/
 
 
-img + div {font-family: 'Glober';}
-
 
 a#branding {
   text-transform: uppercase;
@@ -46,18 +44,19 @@ a#branding {
   font-weight:100;
   }
 
-.post-caption {
+.post-caption, img + em {
 	font-family: 'Glober';
 	display: block;
 	width: auto;
-	margin: -100px, 0px 0px 100px;
-	background: rgba(30, 30, 30, 0);
+	margin: -200px, 0px 0px 100px;
 	color: black;
 	padding: 20px;
 	font-size: small;
 	text-align: right;
-	border-bottom: 1px black solid;
 	opacity: .5;
+	font-style: normal;
+	background: #dedede;
+		display: block;
 }
 
 .post-content img {

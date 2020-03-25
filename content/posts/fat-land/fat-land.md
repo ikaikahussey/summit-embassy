@@ -44,7 +44,7 @@ Comprising 2,500 acres, the He‘eia ahupua‘a contained the wide range of land
 A mālama ‘āina renaissance is engaging thousands of community stakeholders—residents, schools, government agencies and landowners—to restore He‘eia’s former glory. At the forefront are three Hawaiian-led organizations caring for different parts of the ahupua‘a: Papahana Kuaola in the uplands; Kākoʻo ʻŌiwi in the wetlands; and Paepae o He‘eia at the shore. 
  
 ![Workday](/posts/fat-land/tncstaff.jpg)
-
+*Volunteers from the Nature Conservancy mahi - <i>labor</i> - at a taro patch*
  
 Icebox For All
 ---
