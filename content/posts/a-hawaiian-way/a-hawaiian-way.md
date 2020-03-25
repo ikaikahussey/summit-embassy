@@ -1,13 +1,14 @@
 ---
 title: A Hawaiian Way
-subtitle: Why a northern approach might make sense down at the equator
+# subtitle: Why a northern approach might make sense down at the equator
 date: 2020-03-16T08:03:39.948Z
-thumb_img_path: /images/pc215357a.png
-content_img_path: /images/pc215357a.png
+thumb_img_path: /posts/a-hawaiian-way/pc215357a.png
+content_img_path: /posts/a-hawaiian-way/pc215357a.png
 excerpt: Why a northern approach might make sense down at the equator
 layout: post
+department: letters
 ---
-**I had an opportunity** to sit down recently with Pasi Sahlberg, a Finnish educator and scholar who gave several talks in Honolulu on lessons that Hawai‘i’s education system can learn from his country. On his short list: a long time horizon for educational reform efforts; a highly competitive, attractive educational profession (with “ten times more applicants than we can let in,” he says); and a highly integrated special-needs education system.
+**I had the opportunity** to sit down recently with <a href="https://twitter.com/pasi_sahlberg">Pasi Sahlberg</a>, a Finnish educator and scholar who gave several talks in Honolulu on lessons that Hawai‘i’s education system can learn from his country. On his short list: a long time horizon for educational reform efforts; a highly competitive, attractive educational profession (with “ten times more applicants than we can let in,” he says); and a highly integrated special-needs education system.
 
 Underlying their efforts since the early 1970s, though, is “the Nordic system,” as he described it: a series of social security programs based on a belief in social equity as a social good. Finland has a remarkable array of programs, including universal child care (described by Sahlberg as a right for the kids, not for adults); a national pension; and allowances for parents to stay home with newborns.
 

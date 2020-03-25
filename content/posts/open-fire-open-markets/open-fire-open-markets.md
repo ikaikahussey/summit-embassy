@@ -4,6 +4,8 @@ excerpt: Is TPP a regional trade agreement or corporate Trojan Horse?
 date: 2015-12-31T21:08:22.831Z
 author: Christine Ahn
 layout: post
+content_img_path: /images/trojan.jpg
+thumb_img_path:  /images/trojan.jpg
 ---
 
 New York Times columnist Thomas Friedman once said the hidden hand of the market needs the hidden fist of the military. The Trans-Pacific Partnership (TPP) and the Obama administration’s Pacific Pivot pack both.
@@ -20,7 +22,7 @@ The TPP spans 12 countries—the U. S., Australia, Brunei, Canada, Chile, Japan,
 
 But the TPP is even more than a corporate Trojan horse. It’s a core part of the Obama administration’s Asia-Pacific Pivot, which is chiefly about containing China.
 
-#A New Cold War?
+##A New Cold War?
 
 Ahead of the fall 2011 Asia Pacific Economic Forum (APEC) meeting in Hawai‘i, then-Secretary of State Hillary Clinton outlined a plan to transfer U.S. military, diplomatic and economic resources from the Middle East to the Pacific, in what she called “America’s New Pacific Century.” Describing the pivot in militaristic terms as “forward-deployed diplomacy,” Clinton hailed the TPP as a “benchmark for future agreements” leading to “a free trade area of the Asia-Pacific.”
 
@@ -37,7 +39,7 @@ Meanwhile, the U.S. regularly stages massive joint military exercises involving 
 Washington seems to believe that these are necessary precautions. According to the RAND Corporation, for example, 90 percent of U.S. bases in the region are “under threat” from Chinese ballistic missiles because they are within 1,080 nautical miles of China. But who is threatening whom? The Chinese have precisely zero bases in the Asia-Pacific outside of their own borders.
 Some U.S. analysts insist that a more robust U.S. military presence is necessary to curb China’s ambitious territorial claims in the region. Without a doubt, China has recently taken a more aggressive stance in regional territorial disputes over dwindling natural resources, angering many of its neighbors. But by turning to the U.S. as a check against China, less powerful nations invite a bargain with the devil as Washington will advance its own strategic interests. And by getting itself involved, Washington risks encouraging China’s rivals to behave more provocatively, as well as angering China itself. According to Mel Gurtov, Professor of Political Science and International Studies at Portland State University's  Hatfield School of Government, “While accepting that the United States is a Pacific power, Chinese authorities now resist the notion that the United States has some special claim to predominance in Asia and the western Pacific.”
 
-A One-Two Punch
+##A One-Two Punch
 
 “The hidden hand of the market,” as Friedman famously wrote in the 1990s, “will never work without a hidden fist.” The Asia-Pacific Pivot and TPP, a one-two neoliberal-militaristic punch, pack both.
 

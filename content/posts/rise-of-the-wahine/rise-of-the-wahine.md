@@ -4,6 +4,7 @@ excerpt: Inside the full-court press for gender equality in education
 date: 2015-12-31T21:08:22.831Z
 author: Will Caron
 layout: post
+thumb_img_path: /images/title_9.jpg
 ---
 
 Dean Kaneshiro has always been interested in storytelling. He got his first video camera in 1992 as a gift from his dad and started making home movies on the weekends. For 11 years now, Kaneshiro has worked with nonprofits, creating promotional videos for the web. But after returning to Hawai‘i, he discovered a story that he knew he had to document using his medium of choice.

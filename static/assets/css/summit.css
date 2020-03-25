@@ -1,54 +1,181 @@
-a#branding {
-  text-transform: uppercase;
-  font-family: 'Surveyor SSm A', 'Surveyor SSm B';
-  font-size: 2rem;
-  font-weight:100;
-  }
-
-.menu {
-  font-family: 'Industry';
-  }
-
-.post-card .post-meta {
-   font-family: 'Industry';
+/* department colors */
+.commons {
+  color: #e54f19;
 }
 
-body,html {
-  font-family: 'Surveyor SSm A', 'Surveyor SSm B';
+.anuenue {
+  color: #2f7ee4;
+}
+
+.originals {
+  color: #129274;
+}
+
+.industry {
+  color: #db0074;
+}
+
+.letters {
+  color: #7057c1;
+}
+
+a.commons {
+  color: #e54f19;
+}
+
+a.anuenue {
+  color: #2f7ee4;
+}
+
+a.originals {
+  color: #129274;
+}
+
+a.industry {
+  color: #db0074;
+}
+
+a.letters {
+  color: #7057c1;
+}
+
+main#commons p a {
+  color: #e54f19;
+  border-bottom: 1px solid #e54f19;
+}
+
+main#anuenue p a {
+  color: #2f7ee4;
+  border-bottom: 1px solid #2f7ee4;
+}
+
+main#originals p a {
+  color: #129274;
+  border-bottom: 1px solid #129274;
+}
+
+main#industry p a {
+  color: #db0074;
+  border-bottom: 1px solid #db0074;
+}
+
+main#letters p a {
+  color: #7057c1;
+  border-bottom: 1px solid #7057c1;
+}
+
+main#commons .post-content h2 {
+  background: #e54f19;
+  color: white;
+}
+
+main#anuenue .post-content h2 {
+  background: #2f7ee4;
+  color: white;
+}
+
+main#originals .post-content h2 {
+  background: #129274;
+  color: white;
+}
+
+main#industry .post-content h2 {
+  background: #db0074;
+  color: white;
+}
+
+main#letters .post-content h2 {
+  background: #7057c1;
+  color: white;
+}
+
+/*--------*/
+img + div {
+  font-family: "Glober";
+}
+
+a#branding {
+  text-transform: uppercase;
+  font-family: "Surveyor SSm A", "Surveyor SSm B";
+  font-size: 2rem;
+  font-weight: 100;
+}
+
+.post-caption {
+  font-family: "Glober";
+  display: block;
+  width: auto;
+  margin: -100px, 0px 0px 100px;
+  background: rgba(30, 30, 30, 0);
+  color: black;
+  padding: 20px;
+  font-size: small;
+  text-align: right;
+  border-bottom: 1px black solid;
+  opacity: 0.5;
+}
+
+.post-content img {
+  display: block;
+  left: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  max-width: 100vw;
+  position: relative;
+  right: 50%;
+  width: 100vw;
+  /* kudos to https://gomakethings.com/how-to-break-an-image-out-of-its-parent-container-with-css/ */
+}
+
+.menu {
+  font-family: "Industry";
+}
+
+.post-card .post-meta {
+  font-family: "Industry";
+}
+
+body, html {
+  font-family: "Surveyor SSm A", "Surveyor SSm B";
   color: black;
 }
 
-h1, h2, h3, h4, h5, h6, header, time, blockquote,p.author {
-  font-family: 'Glober';
+h1, h2, h3, h4, h5, h6, header, time, blockquote, p.author {
+  font-family: "Glober";
   font-size: smaller;
   color: black;
   font-weight: lighter;
 }
 
-.post-content {border-top:2px black solid;padding-top: 40px;}
-
-.post-content h2 {
-	background: #ffe102;
-	display: block;
-	padding: 10px 550px 10px 600px;
-	margin-bottom: 30px;
-	margin-left: -600px;
-	border-radius: 20px;
-	color: black;
-	font-size: larger;
+.post-content {
+  border-top: 2px black solid;
+  padding-top: 40px;
 }
 
-aside {}
+.post-content h2 {
+  background: #ffe102;
+  display: block;
+  padding: 20px 0px 20px 2000px;
+  margin-bottom: 30px;
+  margin-left: -2000px;
+  color: black;
+  font-size: larger;
+}
 
-
-.post-title {text-transform: uppercase;}
+.post-title {
+  text-transform: uppercase;
+}
 
 h2.post-title {
-  font-family: 'Glober';
+  font-family: "Glober";
 }
 
 a.button {
-  font-family: 'Glober';
+  font-family: "Glober";
+}
+
+a {
+  border-bottom: 2px solid black;
 }
 
 .intro-text {
@@ -56,24 +183,24 @@ a.button {
 }
 
 .site-header {
-background: #fff;
-border-top: 0px solid #3cb464;
-border-bottom: 2px solid #333;
-padding-bottom: 1.33333em;
-padding-top: 1.33333em;
+  background: #fff;
+  border-top: 0px solid #3cb464;
+  border-bottom: 1px solid black;
+  padding-bottom: 1.33333em;
+  padding-top: 1.33333em;
 }
 
 @font-face {
-  font-family: 'Glober';
+  font-family: "Glober";
   src: url("../assets/fonts/glober/Glober_Bold_Free-webfont.eot");
   src: url("../assets/fonts/glober/Glober_Bold_Free-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/glober/Glober_Bold_Free-webfont.woff") format("woff"), url("../fonts/glober/Glober_Bold_Free-webfont.ttf") format("truetype"), url("../fonts/glober/Glober_Bold_Free-webfont.svg#webfont") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Icons';
+  font-family: "Icons";
   src: url("../assets/fonts/icons.eot");
-  src: url("../assets/fonts/icons.eot?#iefix") format('embedded-opentype'), url("../fonts/icons.svg#icons") format('svg'), url("../fonts/icons.woff") format('woff'), url("../fonts/icons.ttf") format('truetype');
+  src: url("../assets/fonts/icons.eot?#iefix") format("embedded-opentype"), url("../fonts/icons.svg#icons") format("svg"), url("../fonts/icons.woff") format("woff"), url("../fonts/icons.ttf") format("truetype");
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -82,7 +209,9 @@ padding-top: 1.33333em;
 }
 /*  note -- that import is required for industry */
 @font-face {
-  font-family: 'Industry';
-  src: url('../assets/fonts/industry/2CD654_0_0.eot');
-  src: url('../assets/fonts/industry/2CD654_0_0.eot?#iefix') format('embedded-opentype'), url('../fonts/industry/2CD654_0_0.woff2') format('woff2'), url('../fonts/industry/2CD654_0_0.woff') format('woff'), url('../fonts/industry/2CD654_0_0.ttf') format('truetype');
+  font-family: "Industry";
+  src: url("../assets/fonts/industry/2CD654_0_0.eot");
+  src: url("../assets/fonts/industry/2CD654_0_0.eot?#iefix") format("embedded-opentype"), url("../fonts/industry/2CD654_0_0.woff2") format("woff2"), url("../fonts/industry/2CD654_0_0.woff") format("woff"), url("../fonts/industry/2CD654_0_0.ttf") format("truetype");
 }
+
+/*# sourceMappingURL=summit.css.map */

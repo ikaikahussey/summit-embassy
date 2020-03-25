@@ -1,5 +1,8 @@
 {{ define "content" }}
 
+  <div id="content" class="site-content">
+              <main id="main" class="site-main inner">
+
   {{ range $section := .Params.sections }}
     {{ $include_dict := dict "section" $section "Site" $.Site }}
     {{ partial $section.component $include_dict }}
@@ -45,5 +48,8 @@
     </div>
   </nav>
   -->
+  
+              </main>
+  </div>
 
 {{ end }}

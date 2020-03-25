@@ -3,7 +3,9 @@ ssgName: hugo
 ssgVersion: 0.1.12
 buildCommand: ./ssg-build.sh
 publishDir: public
-staticDir: static
+staticDir: 
+	-static
+	-content
 uploadDir: images
 dataDir: data
 pagesDir: content

@@ -4,6 +4,8 @@ excerpt: “Our truest life is when we are in dreams awake”  –Henry David Th
 date: 2015-12-31T21:08:22.831Z
 author: Gary Chun
 layout: post
+thumb_img_path: /images/starr.jpg
+content_img_path: /images/starr.jpg
 ---
 
 Singer Starr Kalahiki has tried to live her life as a dreamer, buoyed by an artistry that has made her one of Hawai‘i’s singular talents. Respected for her jazz chops—her debut album Salt won a Na Hoku Hanohano award for best jazz album of the year in 2012—she’s now pushing herself to revisit her native Hawaiian roots by taking on an ambitious project that will present the music of the islands’ last reigning monarch, the beloved Queen Lili‘uokalani, in a contemporary setting.
@@ -38,4 +40,4 @@ Kalahiki has since found volumes of sheet music in the Queen’s handwriting. Th
 
 “I admit that, while jazz is part of my sensibility, Hawaiian music is not, so I don’t want to come off as a phony,” Kalahiki said. “But, as a Hawaiian, I do feel I have the innate right to do this project. The Queen’s music has taught me so much, and I hope I can let her music and her lyrics come through me in a natural way.
 
-“People have asked me why don’t I relocate to New York or Los Angeles to pursue a career. But I’m not trying to be that kind of singer. My mana comes from my ‘āina, and I want to show people, both local and visitors, the truth of living and being Hawaiian.” 5
+“People have asked me why don’t I relocate to New York or Los Angeles to pursue a career. But I’m not trying to be that kind of singer. My mana comes from my ‘āina, and I want to show people, both local and visitors, the truth of living and being Hawaiian.”

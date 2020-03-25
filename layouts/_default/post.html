@@ -1,17 +1,35 @@
 {{ define "content" }}
 
-	      {{ if .Params.content_img_path }}
+<main id="{{ .Params.department }}">
+
+{{ if .Params.content_img_path }}
     <div class="post-thumbnail">
       <img class="thumbnail" src="{{ .Params.content_img_path | relURL }}" alt="{{ .Params.title }}" />
-    </div>
+    {{ if .Params.content_img_caption }}
+    	<div class="post-caption"> 
+    	{{ .Params.content_img_caption | safeHTML }}
+    	</div>
     {{ end }}
-
-  <article class="post post-full">
+    </div>
+ {{ end }}
+  <div id="content" class="site-content">
+     <div class="site-main inner">
+	 <article class="post post-full">
 
     <header class="post-header">
+
+    {{ if .Params.plus }}
+    <div class="post-plus">
+      SUMMIT + <a href="{{ .Params.plus_link | safeHTML }}">{{ .Params.plus | safeHTML }}</a>
+    </div><!-- .post-subtitle -->
+    {{ end }}
+
+
       <div class="post-meta">
-        <time class="published" datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
-          <p class="author"> {{ .Params.author }}</p>
+      	<p class="department {{ .Params.department }}">{{ .Params.department }}</p>
+      	<time class="published" datetime="{{ .Date | dateFormat "2006-01-02 15:04" }}">{{ .Date | dateFormat "Monday, January 2, 2006" }}</time>
+      	<p class="author"> {{ .Params.author }}</p>
+      
       </div>
       <h1 class="post-title">{{ .Params.title }}</h1>
       <aside>{{ .Params.excerpt }}</aside>
@@ -76,5 +94,8 @@
     </div>
   </nav>
   -->
-
+  
+              </div>
+  </div>
+</main>
 {{ end }}

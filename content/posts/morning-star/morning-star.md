@@ -3,10 +3,10 @@ title: The Morning Star
 excerpt: The sun hasn't yet set on human rights abuses in West Papua
 date: 2015-12-31T21:08:22.831Z
 author: Ikaika Hussey
-thumb_img_path: /images/vila-fes-napuan-2012-76__large.jpg
-content_img_path: /images/vila-fes-napuan-2012-76__large.jpg
+thumb_img_path: /posts/morning-star/vila-fes-napuan-2012-76__large.jpg
+content_img_path: /posts/morning-star/vila-fes-napuan-2012-76__large.jpg
 layout: post
-department: commonsw
+department: commons
 ---
 
 Rosa Moiwend sits in the lobby of a posh Berkeley hotel, cradling a small piece of nylon between two well-worn hands. “This could get us arrested,” she says. “Sometimes we just paint it on the ground and the police get upset. But we tell them it’s just paint.”
@@ -46,6 +46,7 @@ Grasberg
 ----
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/0/05/Grasberg_mine.jpg "icon")
+<div class="post-caption">A workday</div>
 
 West Papua has the dubious distinction of being the home to the world’s largest copper and gold mine. A giant pit in the earth, the Grasberg mine is majority-owned by Arizona’s Freeport McMoRan Company. The mine is the single largest contributor of tax revenue to the Indonesian state.
 
