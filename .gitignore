@@ -1,5 +1,5 @@
 /public/
 
 # Exclude any PSD/AI source
-#*.psd
-#*.ai
+*.psd
+*.ai
