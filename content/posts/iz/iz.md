@@ -3,8 +3,9 @@ title: Twenty years facing future
 date: 2015-12-31T21:08:22.831Z
 author: Will Caron
 layout: post
-content_img_path: /images/iz1.jpg
-thumb_img_path: /images/iz1.jpg
+content_img_path: /posts/iz/iz1.jpg
+thumb_img_path: /posts/iz/iz1.jpg
+department: originals
 ---
 
 Just over twenty years ago, Israel “Bruddah Iz” Kamakawiwo‘ole, already an important part of the Hawaiian renaissance and a famous entertainer in the islands, released his first album with Mountain Apple Company. The record, Facing Future, is still the best-selling record of all time by a Hawaiian artist, and introduced to the world both Iz and contemporary Hawaiian music.
