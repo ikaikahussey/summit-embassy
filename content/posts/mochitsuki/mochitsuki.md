@@ -2,8 +2,9 @@
 title: Mochitsuki
 date: 2018-12-31T21:08:22.831Z
 layout: post
-content_img_path: /images/mochi_07.jpeg
-thumb_img_path: /images/mochi_07.jpeg
+content_img_path: /posts/mochitsuki/mochi_07.jpeg
+thumb_img_path: /posts/mochitsuki/mochi_07.jpeg
+department: letters
 
 ---
 

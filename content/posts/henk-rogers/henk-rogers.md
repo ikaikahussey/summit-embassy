@@ -3,9 +3,10 @@ title: A conversation with Henk Rogers
 # excerpt: “Our truest life is when we are in dreams awake”  –Henry David Thoreau
 date: 2015-12-31T21:08:22.831Z
 layout: post
-thumb_img_path: /images/henk.jpg
-content_img_path: /images/henk.jpg
+thumb_img_path: /posts/henk-rogers/henk.jpg
+content_img_path: /posts/henk-rogers/henk.jpg
 excerpt: Entrepreneur and energy advocate Henk Rogers is the founder of Tetris Company, Blue Planet Foundation and Blue Startups. Summit discussed his vision for tech in the islands.
+department: industry
 ---
 
 <em>Summit (S): What’s your vision?</em>
