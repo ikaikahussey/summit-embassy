@@ -4,8 +4,8 @@ excerpt: Is TPP a regional trade agreement or corporate Trojan Horse?
 date: 2015-12-31T21:08:22.831Z
 author: Christine Ahn
 layout: post
-content_img_path: /images/trojan.jpg
-thumb_img_path:  /images/trojan.jpg
+content_img_path: /posts/open-fire-open-markets/trojan.jpg
+thumb_img_path:  /posts/open-fire-open-markets/trojan.jpg
 ---
 
 New York Times columnist Thomas Friedman once said the hidden hand of the market needs the hidden fist of the military. The Trans-Pacific Partnership (TPP) and the Obama administration’s Pacific Pivot pack both.
