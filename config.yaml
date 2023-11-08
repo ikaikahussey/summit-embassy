@@ -8,9 +8,9 @@ params:
     logo_img: ''
     has_nav: true
   footer:
-    content: '&copy; All rights reserved.'
+    content: '&copy; 2023. All rights reserved.'
     links:
-      - text: Summit Enterprises
+      - text: SUMMIT
         url: /
         new_window: true
     has_social: true
